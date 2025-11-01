@@ -269,6 +269,156 @@ This section details the resources for the self-taught Physics goal.
 
 ---
 
-This new structure should be much easier to read and maintain as a Markdown document.
+# Google DeepMind & Self-Taught Physics Document
 
-Would you like me to focus on any specific section, like formatting the **Self-Teach Physics Roadmap** into a more structured learning plan, or is this ready for your final copy?
+**Academic Information**
+
+
+## 🤖 Deep Learning & AI Ecosystem Roadmap (Structured Plan)
+
+This roadmap organizes your resources into a progression, starting with foundational AI/ML concepts and moving towards specialized, cutting-edge topics like JAX and LLMs.
+
+### Phase 1: Foundational ML & TensorFlow
+
+This phase covers the core concepts of Machine Learning, starting with widely adopted Google frameworks and foundational coding skills.
+
+* **Core Concepts & Theory:**
+    * Complete the [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course).
+    * Review the [Most Important Algorithm in Machine Learning](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=1565s) (from Karpathy's video).
+    * Work through the [Dive into Deep Learning](https://d2l.ai/index.html) resource.
+* **TensorFlow Mastery:**
+    * Follow the [Machine Learning Engineer Learning Path | Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17).
+    * Practice with tutorials on [TensorFlow Core](https://www.tensorflow.org/tutorials) and explore examples on [Seedbank — discover machine learning examples — The TensorFlow Blog](https://blog.tensorflow.org/2018/07/seedbank-discover-machine-learning.html).
+    * Watch the [TensorFlow - YouTube](https://www.youtube.com/@TensorFlow) channel for new techniques and tutorials.
+* **Data Structures & Google Dev Resources:**
+    * Explore general learning resources from [Grow with Google](https://grow.google/intl/en_pk/guide-ai-machine-learning/) and [Google for Developers Playlists](https://www.youtube.com/@GoogleDevelopers/playlists).
+
+### Phase 2: Advanced Deep Learning & LLMs
+
+This phase moves into the architecture and development of modern large language models, drawing heavily on Andrej Karpathy's content.
+
+* **Neural Network Fundamentals:**
+    * Start the [Neural Networks: Zero to Hero - YouTube](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) playlist.
+    * Work on [The spelled-out intro to neural networks and backpropagation: building micrograd (Andrej Karpathy)](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=1565s) to understand core mechanics.
+    * Study resources from [Andrej Karpathy (GitHub)](https://github.com/karpathy) & [Andrej Karpathy (Website)](https://karpathy.ai/).
+* **LLM Development:**
+    * Understand tokenization using [Tiktokenizer](https://tiktokenizer.vercel.app/).
+    * Follow the guide for [Train an LLM From Scratch On NVIDIA Jetson Nano (Step-by-Step Guide)](https://youtu.be/s1uFVfuT2aw?si=Ga0vIm0qevfNVzOY).
+    * Look into the **#Project The Bible LLM** to apply your learning to a specific project.
+    * Review publications from [Distill.pub](https://distill.pub/) for advanced visualization and understanding of models.
+* **Experimentation & Tools:**
+    * Use [Sign in to Google AI Studio](https://aistudio.google.com/apps) for prompt engineering and model experimentation.
+
+### Phase 3: High-Performance Computing with JAX
+
+This phase focuses on JAX, Google DeepMind's preferred framework for high-performance ML research, building on the knowledge from the previous phases.
+
+* **JAX Introduction:**
+    * Review the DeepMind blog post: [Using JAX to accelerate our research - Google DeepMind](https://deepmind.google/discover/blog/using-jax-to-accelerate-our-research/).
+    * Start with the educational resources: [GitHub - google-deepmind/educational](https://github.com/google-deepmind/educational).
+    * Follow the structured tutorials: [GitHub - gordicaleksa/get-started-with-JAX (Tutorials)](https://github.com/gordicaleksa/get-started-with-JAX).
+    * Utilize the community guides: [JAX Guide | Kaggle](https://www.kaggle.com/learn-guide/jax).
+* **DeepMind Context & Research:**
+    * Keep up with current research via the [Google DeepMind Official Site](https://deepmind.google/) and [Google DeepMind · GitHub](https://github.com/google-deepmind).
+    * Explore DeepMind's structure and personnel (e.g., [Neel Nanda](https://www.neelnanda.io/about) resources).
+    * Engage with competition platforms: [RMIT Hackathon 2025 (Kaggle)](https://www.kaggle.com/competitions/rmit-hackathon-2025).
+
+---
+
+## ⚛️ Self-Teach Physics & Quantum Roadmap (Structured Plan)
+
+This plan sequences your existing resources, guiding you from foundational physics to advanced theoretical and quantum computing topics.
+
+### Phase 1: Foundational Physics & Essential Math
+
+This phase establishes the bedrock knowledge needed for advanced study, primarily using MIT and general university resources.
+
+* **Core Physics & Mechanics:**
+    * Start with introductory materials like the [MIT OpenCourseWare (OCW)](https://ocw.mit.edu/) sequence and [AP®︎/College Calculus AB - Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab).
+    * Utilize open-access textbooks like [OpenStax](https://openstax.org/).
+    * Reference foundational guides like [Physics — Susan Rigetti](https://www.susanrigetti.com/physics) and the "Self-teach Physics" materials.
+* **Calculus & Algebra Refresher:**
+    * Master the required mathematics using full-length YouTube courses:
+        * [College Algebra – Full Course with Python Code](https://www.youtube.com/watch?v=i7vOAcUo5iA&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&pp=iAQB)
+        * [College Precalculus – Full Course with Python Code](https://www.youtube.com/watch?v=Y8oZtFYweTY)
+    * Deepen conceptual understanding with [3Blue1Brown Home Page](https://www.3blue1brown.com/) and [MIT OCW's Calculus Online Textbook](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/).
+* **Programming for Physics:**
+    * Begin using **Python** for computational tasks (e.g., in the algebra/precalculus courses) to prepare for modeling.
+
+### Phase 2: Quantum Mechanics and Theoretical Concepts
+
+This phase moves into modern physics and the specialized mathematics for quantum information.
+
+* **Quantum Theory:**
+    * Focus on the principles of **Quantum Mechanics** using [The Theoretical Minimum](https://theoreticalminimum.com/) lectures/book.
+    * Explore popular science articles and books like those recommended by [Evening Standard](https://www.standard.co.uk/shopping/esbest/books-dvds/best-books-quantum-mechanics-b1156976.html) to build intuition.
+    * Check research updates from [Google Research - Physics](https://blog.research.google/search/label/Physics?max-results=11) and [Physics | CERN](https://home.cern/science/physics).
+* **Quantum Math & Logic:**
+    * Review [Linear Algebra Crash Course for Machine Learning and Generative AI [Full 7h]](https://www.youtube.com/watch?v=n9jZmymHX6o&ab_channel=LunarTech), as it is crucial for quantum computing.
+    * Study advanced math concepts with [Tom Rocks Maths](https://tomrocksmaths.com/).
+* **Computational Physics:**
+    * Explore [root.cern](https://root.cern/) for data analysis tools used in high-energy physics.
+
+### Phase 3: Quantum Computing & Machine Learning Implementation
+
+This final phase focuses on practical quantum programming and the intersection of physics and AI.
+
+* **Quantum Programming:**
+    * Select your primary framework: [Qiskit (IBM)](https://www.ibm.com/quantum/qiskit), [Cirq (Google)](https://quantumai.google/cirq), or [PennyLane](https://pennylane.ai/qml/).
+    * Complete the introductory material for the chosen platform, such as the [IBM Quantum Learning](https://learning.quantum.ibm.com/) path or [Cirq basics](https://quantumai.google/cirq/start/basics).
+    * Follow suggested learning paths like the [6-month Roadmap to learn about Quantum Computing for free](https://naemazam.medium.com/6-month-roadmap-to-learn-about-quantum-computing-for-free-516c4cf5a480).
+* **Quantum Machine Learning (QML) & PINNs:**
+    * Study the intersection of these fields with **Quantum Machine Learning** resources from [PennyLane](https://pennylane.ai/qml/quantum-machine-learning/).
+    * Learn how to use **Physics-Informed Neural Networks (PINNs)** for solving differential equations, utilizing resources like the [Introduction to Physics-informed Machine Learning with Modulus (NVIDIA)](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-04+V1) documentation.
+
+---
+
+## 💻 Other Learning & References
+
+### Development Languages & Environments
+
+* **Swift/iOS Development:**
+    * [The Go Programming Language](https://go.dev/)
+    * [API Development Tutorial: How to Build an API using Swift](https://www.bitdegree.org/courses/course/api-development)
+    * [C++ Functions | Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/functions-cpp?view=msvc-170)
+* **General Programming Institutes:**
+    * [C++ Institute](https://cppinstitute.org/)
+    * [Python Institute](https://pythoninstitute.org/)
+    * [Ruby Association](https://www.ruby.or.jp/en/)
+
+### 🔒 Cybersecurity & Professional Development
+
+* **Cyber Security:**
+    * [Google Cyber Security Certificate](https://grow.google/certificates/cybersecurity/)
+    * [Kali Linux NetHunter install in 8 minutes (rootless) and includes Android 15](https://youtu.be/Lqu-G7sqClA?si=5ZtQgJdF1J6Tfcta)
+    * [fsociety GitHub Repo](https://github.com/rajeshkumarkarra/fsociety)
+* **Career & Testing:**
+    * [Our hiring process - Google Careers](https://www.google.com/about/careers/applications/how-we-hire)
+    * [Data Annotation Tech Worker Signup](https://app.dataannotation.tech/worker_signup?)
+    * [National AI Olympiad for Working Professionals](https://talentsprint.com/national-ai-olympiad/professional)
+    * [IELTS (International English Language Testing System) Preparation](https://ielts.org/)
+
+### 📚 IELTS & General Learning
+
+* **IELTS (In progress):**
+    * [What is IELTS? All You Need to Know About IELTS | Take IELTS](https://takeielts.britishcouncil.org/take-ielts/what-ielts)
+    * [IELTS Liz](https://ieltsliz.com/)
+    * [BBC Learning English](https://www.bbc.co.uk/learningenglish/)
+* **General Academic:**
+    * [Google Research Playlists (YouTube)](https://www.youtube.com/@GoogleResearch/playlists)
+    * [Computational Thinking & Scratch - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=F0WoVEr0-44&list=PLWKjhJtqVAbmGw5fN5BQluug-8bDmabi&pp=iAQB)
+
+---
+
+## 📑 Referenced Files & Tabs
+
+* **Academic Files:** (Check Google Classroom and fill the form for access.)
+    * `Ielts_information_for_candidates_us_version.pdf`
+    * `Numerical Analysis_material.pdf`
+* **Chrome Tabs (Unsorted):**
+    * [IBM Quantum Challenge 2024](https://challenges.quantum.ibm.com/2024#lab-1)
+    * [Google Classroom Link](https://classroom.google.com/u/0/w/NjA0Mjc2OTQ3Mjgz/t/all)
+    * [Outlook Mail](https://outlook.live.com/mail/0/?actSwt=true)
+    * [Partnership Accreditation for Landlords Property Search](https://www.pal-online.org.uk/property-search/)
+
+
