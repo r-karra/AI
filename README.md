@@ -1,37 +1,4 @@
-# Google DeepMind
-Research - Contribute - Document (Karra, n.d., #) [1](https://share.google/aimode/DY8scfGUqKpaluiPX)
-
-College Lane Campus
-Hatfield 
-Hertfordshire 
-AL10 9AB 
-United Kingdom
-
----
-
-Fall Semester 2024
-
-Professors: [Dr Vidas Regelskis](https://researchprofiles.herts.ac.uk/portal/en/persons/vidas-regelskis(dac51bc7-e21b-4238-b1d3-4486e8563748).html), [Dr Charles Strickland-Constable](https://researchprofiles.herts.ac.uk/portal/en/persons/charles-stricklandconstable(88531bf1-dadc-4cc7-9560-78cb6f3457d0).html)
-Email: <rajesh_karra@outlook.com>
-
-Self-taught
-PHYSICS
-
----
-
-## Jul 20, 2024 | ToDo_for_Herts
-Attendees:
-
-**Action items**
-* Add Google Calendar
-* The Amateur movie, The polar express(movie), the atlanties, coco
-* [https://g.co/gemini/share/1ff9edc2ad63](https://g.co/gemini/share/1ff9edc2ad63)
-* [Unlock your potential: Discover the enhanced Google Developer Program](https://developers.googleblog.com/en/google-developer-program-latest-enhancements/)
-* iPhone back case, L’Oréal expert beard color, Mac book, Gemini 2.5 pro, Google developer program, Colab pro, subscription for google one with 1tb
-* Upgrade RAM to my laptop, MagSafe battery for my iPhone from Apple
-* [Belkin BoostCharge Pro Magnetic Power Bank 5K - Black - Apple](https://www.apple.com/shop/product/HRX32ZM/A/belkin-boostcharge-pro-magnetic-power-bank-5k?fnode=52cfdafee3442f75a9b4d3e174d9dfc042f073601082dc100e09abfc37b064911d8695b5ed0f534a82cfe1761e84beb93862813ab2e0e6d63575fa2c4ba4a27c84edaa02380ca13332f2dcf964e239b5177419ffd861afdf328497a59723af9076455abee6f784b1de2eaf5ce721e8ac&fs=f%3Diphone16pro%26fh%3D12b2bf%2B6fdc2a)
-* [iPhone 16 Best Accessories | Belkin](https://www.belkin.com/in/shop-by/solutions/best-iphone-16-accessories/)
-* [Magnetic Power Bank with Qi2 15W 10K](https://www.belkin.com/in/p/magnetic-power-bank-with-qi2-15w-10k/BPD008btBK.html)
+# Resources
 
 | Learning Topic | Research | Contribution | Related files | Notes |
 | :--- | :--- | :--- | :--- | :--- |
